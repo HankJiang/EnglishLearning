@@ -13,38 +13,38 @@
 - [词根](#词根)
   * [名词性](#名词性)
     + [心理学](#心理学)
-    + [>社会学](#>社会学)
-    + [>物理学](#>物理学)
-    + [>生物学](#>生物学)
+    + [社会学](#社会学)
+    + [物理学](#物理学)
+    + [生物学](#生物学)
   * [动词性](#动词性)
-    + [>眼耳口鼻](#>眼耳口鼻)
-    + [>手脚](#>手脚)
-    + [>心脑](#>心脑)
-    + [>抽象](#>抽象)
-    + [>物理](#>物理)
+    + [眼耳口鼻](#眼耳口鼻)
+    + [手脚](#手脚)
+    + [心脑](#心脑)
+    + [抽象](#抽象)
+    + [物理](#物理)
   * [形容词性](#形容词性)
   * [介词性](#介词性)
   * [量词性](#量词性)
 - [前缀](#前缀)
   * [表数量](#表数量)
   * [表方位](#表方位)
-    + [>前后](#>前后)
-    + [>上下](#>上下)
-    + [>内外](#>内外)
-    + [>穿绕](#>穿绕)
-    + [>其他](#>其他)
+    + [前后](#前后)
+    + [上下](#上下)
+    + [内外](#内外)
+    + [穿绕](#穿绕)
+    + [其他](#其他)
   * [表状态](#表状态)
-    + [>是否有无](#>是否有无)
-    + [>善恶对错](#>善恶对错)
-    + [>大小多少](#>大小多少)
-    + [>趋势程度](#>趋势程度)
-    + [>正反异同](#>正反异同)
-    + [>新旧](#>新旧)
-    + [>真假](#>真假)
+    + [是否有无](#是否有无)
+    + [善恶对错](#善恶对错)
+    + [大小多少](#大小多少)
+    + [趋势程度](#趋势程度)
+    + [正反异同](#正反异同)
+    + [新旧](#新旧)
+    + [真假](#真假)
   * [其他](#其他)
-    + [>动作](#>动作)
-    + [>代指](#>代指)
-    + [>词性](#>词性)
+    + [动作](#动作)
+    + [代指](#代指)
+    + [词性](#词性)
 - [后缀](#后缀)
   * [表名词](#表名词)
   * [表动词](#表动词)
@@ -57,7 +57,7 @@
 
 ## 名词性
 
-### >心理学
+### 心理学
 
 1. am amat amic 
     - 爱 【】
@@ -66,7 +66,7 @@
 3. pass pat 
     - 忍受，感情 【】
 
-### >社会学
+### 社会学
 
 1. jur just
     - 法律，公正 【jurist injury justice justify adjust】
@@ -87,7 +87,7 @@
 9. mont mount
     - 山/攀登 【mountain amount】
 
-### >物理学
+### 物理学
 
 1. fort forc
     - 强，力量 【force effort comfort fortitude】
@@ -100,7 +100,7 @@
 5. phot
     - 光线 【photo】
 
-### >生物学
+### 生物学
 
 1. anim
     - 生命，精神 【animal】
@@ -133,7 +133,7 @@
 
 ## 动词性
 
-### >眼耳口鼻
+### 眼耳口鼻
 
 1. aud audit
     - 听 【audit auditing auditor audience audio audible】
@@ -156,7 +156,7 @@
 10. vid vis
     - 看 【evident provide divide television visit vision visible advise revise supervise】
 
-### >手脚
+### 手脚
 
 1. graph gram
     - 写，图 【photograph paragraph biography】
@@ -207,7 +207,7 @@
 24. sid sed sess
     - 坐 【president resident session possess subside dissident】
 
-### >心脑
+### 心脑
 
 1. gnos gnit gniz
     - 知道【diagnose recognize precognition gnosia eugnosia prognosis】
@@ -242,7 +242,7 @@
 16. act
     - 行动，做 【action actionless actionable hyperaction actual exact active react】
 
-### >抽象
+### 抽象
 
 1. nai nat
     - 出生的【nation national international nature native innate neonate agnate】
@@ -275,7 +275,7 @@
 15. tang tact
     - 接触【contact tactile intact tangible contagious tactual】
 
-### >物理
+### 物理
 
 1. flu
     - 流动  【fluent influence fluid influenza affluent superfluous】
@@ -353,7 +353,7 @@
 
 ## 表方位
 
-### >前后
+### 前后
 
 1. ante-
     - 前面，先 【antedate anterior antecedent】
@@ -371,7 +371,7 @@
 6. retro-
     - 向后，倒退 【retrograd retrogress retrospect retroaction retroject retrovert】
 
-### >上下
+### 上下
 
 1. sub-
     - 在下面，次一等，副手 【subdue subjugate subliminal submerge submissive subordinate suborn subscribe subscribe subside subterranean subcontinent subtropics subtitle subeditor subpffice】
@@ -385,7 +385,7 @@
     - 不足，不够 【underestimate underplay underpopulated underdeveloped undersized】
     - 副手 【underagent underofficer】
 
-### >内外
+### 内外
 
 1. e- ef-
     - 从…离开，从…向外【elongate elaborate eject emerge evade eradicate effluence】
@@ -395,7 +395,7 @@
 3. intro-
     - 向内，入内 【introduce introspect introvert intromit introversible】
 
-### >穿绕
+### 穿绕
 
 1. dia-
     - 穿过，二者之间 【dialogue diameter diaphanous dialectic diagnosis diagram】
@@ -412,7 +412,7 @@
 6. peri-
     - 周围，靠近 【perigion perimeter periphery】
 
-### >其他
+### 其他
 
 1. epi-
     - 在…上，在…周围，在…后面 【epidemic epigram epilogue episode epitome】
@@ -421,7 +421,7 @@
 
 ## 表状态
 
-### >是否有无
+### 是否有无
 
 1. a-
     - 不，无，非 【acentric asocial amoral】
@@ -445,7 +445,7 @@
     - 不，无，非 【unreal unequal unfortunate unabashed unassuming uncommited unscrupulous untoward unconditional unlimited unambitious unconscionable unfailing unoffical unjust unwordly uneducated uncivilized undecided unalloyed uncharted】
     - 打开，解开，弄出 【unlock unbind unbutton uncover undress untomb unearth unbosom unravel】
 
-### >善恶对错
+### 善恶对错
 
 1. ana-
     - 错误，在旁边，分开 【analogy analogous analysis】
@@ -460,7 +460,7 @@
 6. mis-
     - 错误，坏 【mistake misspell misunderstand misdoing misrule misfortune mistrust misanthrop miscreant mishap mischievous】
 
-### >大小多少
+### 大小多少
 
 1. extra- extro-
     - 以外的，超过的 【extracurriculum extraordinary extrasolar extraneous extravagant extrovert extrapolate extraviolet】
@@ -477,7 +477,7 @@
 7. poly-
     - 多 【polyandry polyglot polyfunctional】
 
-### >趋势程度
+### 趋势程度
 
 1. omni-
     - 全部，到处 【omnipresent omnipotent omniscient】
@@ -517,7 +517,7 @@
     - 贯穿，自始至终 【perspective perennial perspire permanent presist persuade percussion perspicacious pernicious perplexed perforate permeate perfect】
     - 假，坏 【perfidy perjury perfunctory perpetrate pervert】
 
-### >正反异同
+### 正反异同
 
 1. ab- abs-
     - 相反【abnormal abstain】
@@ -547,33 +547,33 @@
 12. sym- syn-
     - 共同，相同 【sympathy symphony symmetry symbiosis symposium synchronous synonym synthesis synopsis syndrome】
 
-### >新旧
+### 新旧
 
 1. neo-
     - 新的 【neonatal neogamist neolithic neophilia neologism neoteric】
 2. paleo-
     - 古，旧 【paleozoology paleotechnic paleontology】
 
-### >真假
+### 真假
 
 1. pseudo-
     - 假，伪 【pseudo pseudonym pseudoscience pseudograph pseudology】
 
 ## 其他
 
-### >动作
+### 动作
 
 1. se-
     - 分开，离开，区别开 【secede seclude secret sedition seduce segregate sever select】
 
-### >代指
+### 代指
 
 1. auto-
     - 自己 【autocracy automation】
 2. dem- demo-
     - 人民 【democracy democrat  democratism democratize democratic demography epidemic epidemiology epidemiologist epidemiological】
 
-### >词性
+### 词性
 
 1. be-
     - 构成动词，使… 【beguile bequeath besiege beware befriend befool befall belittle bewilder】
